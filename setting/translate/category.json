@@ -2,8 +2,23 @@
   {
     "name": "名言",
     "translate": {
-      "zh-CN": "猫猫名言~",
+      "zh-CN": "名言堇句",
       "en-US": "Witticisms~"
+    }
+  },
+  {
+    "name": "怪话",
+    "translate": {
+      "zh-CN": "怪话",
+      "en-US": "lewd talk"
+    }
+  },
+  {
+    "name": "隐藏",
+    "hide": true,
+    "translate": {
+      "zh-CN": "隐藏",
+      "en-US": "hide"
     }
   }
 ]

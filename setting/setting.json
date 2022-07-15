@@ -1,51 +1,67 @@
 {
-  "i18n": true,
+  "i18n": false,
   "neko_mimi": true,
   "name": {
     "CN": {
-      "title": "语音按钮",
+      "title": "小由语音按钮（试作型）",
       "fullName": ""
     },
     "EN": {
-      "title": "Voives Button",
+      "title": "Yommyko Voives Button",
       "fullName": ""
     }
   },
-  "readme": "",
+  "readme": "<div style=\"text-align: center;color: pink;\">喵！</div>",
   "header": {
-    "icon": "img/logo.svg",
+    "icon": "img/logo.png",
     "youtube": "",
     "twitter": "",
-    "bilibili": ""
+    "bilibili": "https://space.bilibili.com/14272337"
   },
-  "related": [],
+  "related": [
+    {
+      "name": "Yommyko(小由) 直播间",
+      "url": "https://live.bilibili.com/21263282",
+      "background": "linear-gradient(to right, rgb(253,222,231) 50%, rgb(165,129,119) 50%)"
+    },
+    {
+      "name": "录播 by 肉布多老师",
+      "url": "https://space.bilibili.com/1779358422",
+      "background": "rgb(226,215,219)"
+    },
+    {
+      "name": "切片 by 嗦语老师",
+      "url": "https://space.bilibili.com/17522348",
+      "background": "rgb(196,180,219)"
+    },
+    {
+      "name": "奶茶☆主页",
+      "url": "https://space.bilibili.com/777964",
+      "background": "rgb(251,236,181)"
+    }
+  ],
   "link": [
     {
       "name": "Hiiro按钮",
-      "url": "https: //hiiro.club/",
+      "url": "https://hiiro.club/",
       "background": "#F5C1BB"
-    },
-    {
-      "name": "七奈按钮",
-      "url": "https: //kaguranana.moe/",
-      "background": "#c4afd0"
     }
   ],
   "footer": {
     "author": [
       {
-        "name": "Blacktunes",
-        "url": "https://github.com/blacktunes"
+        "name": "Hinata",
+        "url": "https://github.com/innocence100"
       }
     ],
     "info": [
       ""
     ],
-    "githubUrl": "https://github.com/blacktunes/voices-button"
+    "githubUrl": "https://github.com/innocence100/xiaoyou_btn/"
   },
   "console": {
-    "text": "https://github.com/blacktunes/voices-button",
-    "size": "",
+    "text": ">_-喵！",
+    "size": "10",
     "color": "",
     "img": "",
     "imgWidth": "",

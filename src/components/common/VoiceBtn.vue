@@ -137,9 +137,11 @@ defineExpose({ progress, lowlight, highlight })
 
   .left
     ears('left', -32deg)
+    border-color transparent transparent $neko-mimi-left-color transparent
 
   .right
     ears('right', 32deg)
+    border-color transparent transparent $neko-mimi-right-color transparent
 
   .btn
     display flex
@@ -150,7 +152,7 @@ defineExpose({ progress, lowlight, highlight })
     box-sizing border-box
     border-radius 18px
     color $btn-text-color
-    background $main-color
+    background $btn-bg-color
     box-shadow 0 1px 2px 0 $main-color
     user-select none
     cursor pointer

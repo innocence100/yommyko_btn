@@ -80,9 +80,11 @@ a
 
   .left
     ears('left', -32deg)
+    border-color transparent transparent $neko-mimi-left-color transparent
 
   .right
     ears('right', 32deg)
+    border-color transparent transparent $neko-mimi-right-color transparent
 
   &:hover
     animation shake 1s ease-in
