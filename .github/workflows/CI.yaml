@@ -1,0 +1,35 @@
+name: Release
+
+on:
+  push:
+    branches: [ "master" ]
+  pull_request:
+    branches: [ "master" ]
+
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    
+    - name: Setup Nodejs
+      uses: actions/setup-node@v3
+      with:
+        node-version: "14"
+
+    - name: Install Package
+      run: yarn
+    - name: build
+      run: yarn build
+      
+
+    - name: Deploy
+      uses: JamesIves/github-pages-deploy-action@v4.3.3
+      with:
+        token: ${{ secrets.PAT }}
+        repository-name: innocence100/innocence100.github.io
+        branch: main # The branch the action should deploy to.
+        folder: dist # The folder the action should deploy.
+        single-commit: true
+        commit-message: "Deploy by source"
