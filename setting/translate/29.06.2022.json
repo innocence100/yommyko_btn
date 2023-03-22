@@ -1,0 +1,86 @@
+[
+    {
+        "name": "哎？",
+        "path": "哎？.mp3",
+        "date": "2022-07-13",
+        "translate": {
+            "zh-CN": "哎？"
+        },
+        "category": "名言",
+        "mark": {
+            "title": "《小由录播》2022年06月29日【Yommyko直播录像】：怪物猎人·崛起"
+        }
+    },
+    {
+        "name": "哭腔1",
+        "path": "哭腔1.mp3",
+        "date": "2022-07-13",
+        "translate": {
+            "zh-CN": "哭腔1"
+        },
+        "category": "名言",
+        "mark": {
+            "title": "《小由录播》2022年06月29日【Yommyko直播录像】：怪物猎人·崛起"
+        }
+    },
+    {
+        "name": "啊——",
+        "path": "啊——.mp3",
+        "date": "2022-07-13",
+        "translate": {
+            "zh-CN": "啊——"
+        },
+        "category": "名言",
+        "mark": {
+            "title": "《小由录播》2022年06月29日【Yommyko直播录像】：怪物猎人·崛起"
+        }
+    },
+    {
+        "name": "啊？",
+        "path": "啊？.mp3",
+        "date": "2022-07-13",
+        "translate": {
+            "zh-CN": "啊？"
+        },
+        "category": "名言",
+        "mark": {
+            "title": "《小由录播》2022年06月29日【Yommyko直播录像】：怪物猎人·崛起"
+        }
+    },
+    {
+        "name": "奶茶——（哭腔）",
+        "path": "奶茶——（哭腔）.mp3",
+        "date": "2022-07-13",
+        "translate": {
+            "zh-CN": "奶茶——（哭腔）"
+        },
+        "category": "隐藏",
+        "mark": {
+            "title": "《小由录播》2022年06月29日【Yommyko直播录像】：怪物猎人·崛起"
+        }
+    },
+    {
+        "name": "怪叫",
+        "path": "怪叫.mp3",
+        "date": "2022-07-13",
+        "translate": {
+            "zh-CN": "怪叫"
+        },
+        "category": "名言",
+        "mark": {
+            "title": "《小由录播》2022年06月29日【Yommyko直播录像】：怪物猎人·崛起"
+        }
+    },
+    {
+        "name": "怪叫2",
+        "path": "怪叫2.mp3",
+        "date": "2022-07-13",
+        "translate": {
+            "zh-CN": "怪叫2"
+        },
+        "category": "名言",
+        "mark": {
+            "title": "《小由录播》2022年06月29日【Yommyko直播录像】：怪物猎人·崛起"
+        }
+    }
+]
